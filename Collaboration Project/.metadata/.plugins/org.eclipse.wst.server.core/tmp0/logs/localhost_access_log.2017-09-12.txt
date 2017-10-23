@@ -1,0 +1,2 @@
+127.0.0.1 - - [12/Sep/2017:14:11:09 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [12/Sep/2017:14:11:10 +0530] "GET /collaboration_backend/WEB-INF/classes/com/collaboration/collaboration_backend/DaoImpl/UserDaoImpl.java HTTP/1.1" 404 992

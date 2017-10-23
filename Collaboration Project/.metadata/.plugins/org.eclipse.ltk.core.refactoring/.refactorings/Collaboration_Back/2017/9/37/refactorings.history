@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.niit.Collaboration_Back.Model.Persons&apos; to &apos;Users&apos;&#x0D;&#x0A;- Original project: &apos;Collaboration_Back&apos;&#x0D;&#x0A;- Original element: &apos;com.niit.Collaboration_Back.Model.Persons&apos;&#x0D;&#x0A;- Renamed element: &apos;com.niit.Collaboration_Back.Model.Users&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Persons&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.niit.Collaboration_Back.Model{Persons.java[Persons" matchStrategy="1" name="Users" qualified="false" references="true" similarDeclarations="false" stamp="1505246123251" textual="false" version="1.0"/>
+</session>
